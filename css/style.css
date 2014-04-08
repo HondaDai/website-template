@@ -1,0 +1,10 @@
+
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+
+.main-container {
+  margin-top: 50px;
+}
