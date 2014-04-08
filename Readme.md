@@ -4,7 +4,7 @@
 
   hondatemplate new PROJECT_NAME
 
-# .zshrc or .bashrc
+# on .zshrc or .bashrc
 
 ```bash
 
